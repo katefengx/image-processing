@@ -1,4 +1,4 @@
-# image-processing
+# Image Processing Project
 Using a KNN Classifier to process and predict image labels.
 
 ## Description
